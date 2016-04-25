@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/7/trunk/v3_0/include/pkgconf
+END
+mlt_arm_arm9_spmp8k_romram.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/7/trunk/v3_0/include/pkgconf/mlt_arm_arm9_spmp8k_romram.h
+END
+mlt_arm_arm9_spmp8k_rom.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7/trunk/v3_0/include/pkgconf/mlt_arm_arm9_spmp8k_rom.h
+END
+mlt_arm_arm9_spmp8k_romram.ldi
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/7/trunk/v3_0/include/pkgconf/mlt_arm_arm9_spmp8k_romram.ldi
+END
+mlt_arm_arm9_spmp8k_rom.ldi
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7/trunk/v3_0/include/pkgconf/mlt_arm_arm9_spmp8k_rom.ldi
+END
+mlt_arm_arm9_spmp8k_ram.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/7/trunk/v3_0/include/pkgconf/mlt_arm_arm9_spmp8k_ram.h
+END
+mlt_arm_arm9_spmp8k_ram.ldi
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/7/trunk/v3_0/include/pkgconf/mlt_arm_arm9_spmp8k_ram.ldi
+END
